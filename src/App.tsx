@@ -1,8 +1,8 @@
 import "./App.css";
-import ConfigureEandPrtr from "./blogs/configure_eslint&pretieer";
+import GetUrlparamsBlog from "./blogs/getUrlparamsBlog";
 
 function App() {
-  return <ConfigureEandPrtr />;
+  return <GetUrlparamsBlog />;
 }
 
 export default App;
