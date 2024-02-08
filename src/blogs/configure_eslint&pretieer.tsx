@@ -1,5 +1,5 @@
-import Steps from "@/components/Steps";
 import CodeImage from "@/components/codeImage";
+import Steps from "@/components/steps";
 import BlogLayout from "@/layout/blogLayout";
 
 const imageData: string[] = [
