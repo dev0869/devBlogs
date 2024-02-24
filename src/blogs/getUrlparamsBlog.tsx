@@ -10,7 +10,6 @@ const GetUrlparamsBlog = () => {
           className="object-cover w-full"
           image="https://herewecode.io/wp-content/uploads/2022/09/react-get-url-params-1536x864.webp"
         />
-
         <h1>Ways to get SearchURL params</h1>
         <Steps step="First Method" />
         <p>With Router</p>

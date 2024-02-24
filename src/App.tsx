@@ -1,8 +1,9 @@
 import "./App.css";
-import GetUrlparamsBlog from "./blogs/getUrlparamsBlog";
+
+import RaectInterviewPreperation from "./blogs/raectInterviewPreperation";
 
 function App() {
-  return <GetUrlparamsBlog />;
+  return <RaectInterviewPreperation />;
 }
 
-export default App;
+export { App };
